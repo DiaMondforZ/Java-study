@@ -1,4 +1,4 @@
-package itheima.Test2;
+package com.itheima.Test2;
 
 public class Cat extends  Animal{
     //构造方法

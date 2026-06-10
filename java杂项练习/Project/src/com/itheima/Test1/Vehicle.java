@@ -1,4 +1,4 @@
-package itheima.Test1;
+package com.itheima.Test1;
 
 public class Vehicle {
 // 属性：品牌，速度

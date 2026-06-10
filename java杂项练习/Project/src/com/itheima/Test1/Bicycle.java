@@ -1,4 +1,4 @@
-package itheima.Test1;
+package com.itheima.Test1;
 
 public class Bicycle extends  Vehicle{
     //构造方法
