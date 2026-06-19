@@ -13,7 +13,7 @@ public class Test {
         String username1 = "admin";
         String username2 = "admin1";
         System.out.println(username.equals(username1));// true
-        System.out.println(username.equalsIgnoreCase(username2));// true
+        System.out.println(username.equalsIgnoreCase(username2));// false
         String password = "123456";
         //用户键盘录入登录的用户名和密码
         Scanner sc = new Scanner(System.in);
